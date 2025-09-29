@@ -36,8 +36,9 @@ A modern React.js application built with Vite and Tailwind CSS for fetching data
 Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/amansharma9772/fetching-data-from-api
+cd fetching-data-from-api
+
 Install dependencies:
 
 bash
